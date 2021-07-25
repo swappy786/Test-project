@@ -8,7 +8,7 @@ public class WriteFromExcel {
 
 	public static void main(String[] args) throws IOException {
 		FileInputStream file = new FileInputStream(new File(System.getProperty("user.dir")+"\\input.xlsx"));
-		
+		System.out.println("");
 		
 	}
 
